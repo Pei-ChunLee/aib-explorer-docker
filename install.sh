@@ -1,6 +1,6 @@
 
 mkdir -p /root/TRASH
-curl -Lk https://github.com/iobond/aib-explorer-docker/releases/download/aib-20180507/aib-20180507.tgz -o /root/TRASH/aib-blockdata.tgz
+curl -Lk https://github.com/iobond/aib-explorer-docker/releases/download/aib-1224419/aib-20180507.tgz -o /root/TRASH/aib-blockdata.tgz
 mkdir -p /home/block.aib.one/
 rm -rf /home/block.aib.one/.aib/blocks
 rm -rf /home/block.aib.one/.aib/chainstate
