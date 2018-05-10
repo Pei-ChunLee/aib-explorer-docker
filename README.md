@@ -12,6 +12,6 @@ sudo apt-get install -y curl docker.io
 Ubuntu 16/17, Run the following command:
 
 
-bash <(curl -s https://raw.githubusercontent.com/iobond/aib-explorer-docker/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Pei-ChunLee/aib-explorer-docker/master/install.sh)
 
 
