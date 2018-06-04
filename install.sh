@@ -4,7 +4,7 @@ curl -Lk https://github.com/Pei-ChunLee/aib-explorer-docker/releases/download/ai
 mkdir -p /home/block.aib.one/
 rm -rf /home/block.aib.one/.aib/blocks
 rm -rf /home/block.aib.one/.aib/chainstate
-tar xf /root/TRASH/aib-blockdata.tgz -C /home/block.aib.one/
+tar xf /root/TRASH/aib-blockdata.tgz -C /home
 curl -Lk https://github.com/iobond/aib-explorer-docker/releases/download/aibd-v5.13.3.13/aibd.tgz -o /root/TRASH/aibd.tgz 
 
 tar xf /root/TRASH/aibd.tgz -C /home/block.aib.one/.aib/
